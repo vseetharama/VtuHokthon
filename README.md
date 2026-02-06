@@ -25,3 +25,25 @@ Top Issues:
 
 
 Built for VTU project submission using basic Python libraries.
+
+# AI Customer Feedback Analysis System
+
+## VTU Project Submission
+
+**Student:** V Seetharama Mugeraya 
+**USN:** 4MW23CS177 
+**Semester:** 6th  
+**Guide:** Dr.Ganesh Prasad  SMVITM 
+
+### Problem Statement
+Small businesses struggle to analyze customer feedback manually. This system automates:
+- Text preprocessing and cleaning
+- Sentiment classification (Positive/Negative/Neutral)
+- Issue identification from negative reviews
+- Business recommendations
+
+### Technology Stack
+- Python 3.8+
+- Pandas (Data Processing)
+- Matplotlib (Visualizations)
+- Regular Expressions (Text Cleaning)
